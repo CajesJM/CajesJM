@@ -18,18 +18,13 @@
 - [**TMC Connect**](https://github.com/CajesJM/CajesJm-tmc-connect)  
   QR code-based attendance app for events, designed for students and assistant admins.
 - More projects to come!
----
-
-## 📊 GitHub Stats
-![CajesJM's GitHub stats](https://github-readme-stats.vercel.app/api?username=CajesJM&show_icons=true&theme=radical)
-
+  
 ---
 
 ## 🌐 Connect with Me
 - GitHub: [@CajesJM](https://github.com/CajesJM)  
 - Facebook: [@CajesJM](https://www.facebook.com/arissuuu1)
-- Telegram: *(add your link here)*  
-
+  
 ---
 
 ✨ *“Always learning, always building.”*
