@@ -2,7 +2,7 @@
 
 # Hi, I'm JM 👋
 
-### BS Information Technology Student • Full-Stack & Mobile Developer • UI/UX Enthusiast
+### BS Information Technology Student • Full-Stack & Mobile Developer 
 
 I study at **Trinidad Municipal College** and build practical web and mobile applications—from campus attendance and OJT tools to e-commerce, transport safety, and small language-model experiments.
 
