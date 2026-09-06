@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm JM 👋
+# Hi, I'm JM 
 
 ### BS Information Technology Student • Full-Stack & Mobile Developer 
 
@@ -13,12 +13,12 @@ I study at **Trinidad Municipal College** and build practical web and mobile app
 
 ## About Me
 
-- 🎓 Taking **BS in Information Technology** at **Trinidad Municipal College**
-- 💻 Building full-stack systems with **React, TypeScript, Node.js, Firebase, and PostgreSQL**
-- 📱 Exploring cross-platform development with **React Native, Expo, and Flutter**
-- 🤖 Experimenting with **Python-based language models** and **Gemini-powered applications**
-- 🎨 Interested in **UI/UX design, prototyping, graphics, and responsive interfaces**
-- 🌱 Currently developing **TriSafe**, a QR-based transport verification and safety platform for Trinidad, Bohol
+-  Taking **BS in Information Technology** at **Trinidad Municipal College**
+-  Building full-stack systems with **React, TypeScript, Node.js, Firebase, and PostgreSQL**
+-  Exploring cross-platform development with **React Native, Expo, and Flutter**
+-  Experimenting with **Python-based language models** and **Gemini-powered applications**
+-  Interested in **UI/UX design, prototyping, graphics, and responsive interfaces**
+-  Currently developing **TriSafe**, a QR-based transport verification and safety platform for Trinidad, Bohol
 
 ## Tech Stack
 
