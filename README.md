@@ -50,30 +50,6 @@ I study at **Trinidad Municipal College** and build practical web and mobile app
 
 Also familiar with **Figma prototyping and Smart Animate** and **AutoCAD basics**.
 
-## Featured Projects
-
-### [TriSafe](https://github.com/CajesJM/TriSafe)
-
-A QR-based transport verification and safety system for Trinidad, Bohol. It combines a **NestJS, Prisma, and PostgreSQL API**, a **React + TypeScript LGU dashboard**, and a **Flutter passenger/driver app**. The system includes role-based access, fare rules, ride history, incident review, emergency contacts, and audit trails.
-
-### [OJT Logbook & Attendance](https://github.com/CajesJM/OJT-LogbookAttendance)
-
-A responsive **React + TypeScript** personal OJT logbook for attendance, rendered hours, progress tracking, reflections, signatures, backups, and printable reports. Records work offline through **IndexedDB**.
-
-### [Wipe It Good Trading](https://github.com/CajesJM/wipe-it-good-trading)
-
-A full-stack e-commerce platform with a customer storefront and admin dashboard. Built with **React, TypeScript, Tailwind CSS, Express, Prisma, and PostgreSQL**, with role-based access, inventory and order tracking, email verification, Google OAuth, maps, and payment integration work.
-
-### [TMC Connect](https://github.com/CajesJM/CajesJm-tmc-connect)
-
-A cross-platform campus attendance and event management system built with **Expo, React Native, TypeScript, and Firebase**. It supports QR check-ins, GPS verification, event management, analytics, role-based access, and offline persistence across mobile and web.
-
-### AI Experiments
-
-- [Aria AI Voice Calendar Assistant](https://github.com/CajesJM/Aria-AI_VoiceCalendarAssistant) — a TypeScript application using the Gemini API.
-- [Mini LLM](https://github.com/CajesJM/Mini-LLM) — a Python project covering model, tokenizer, training, checkpoint, and testing code.
-- [OwnModel LLM](https://github.com/CajesJM/OwnModel_LLM) — a Python language-model experiment with training, inference, a saved model, tokenizer, and Gradio interface.
-
 ## GitHub Activity
 
 <div align="center">
