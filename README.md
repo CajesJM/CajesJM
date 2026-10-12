@@ -65,6 +65,6 @@ Also familiar with **Figma prototyping and Smart Animate** and **AutoCAD basics*
 
 <div align="center">
 
-*Always learning, always building.*
+*Always learning, always building..*
 
 </div>
