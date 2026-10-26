@@ -59,7 +59,7 @@ Also familiar with **Figma prototyping and Smart Animate** and **AutoCAD basics*
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=CajesJM&theme=tokyo-night&hide_border=true" alt="JM's GitHub contribution activity graph" />
 
-</div>
+</div>    
 
 ---
 
