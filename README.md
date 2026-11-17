@@ -4,7 +4,7 @@
 
 ### BS Information Technology Student • Full-Stack & Mobile Developer 
 
-I study at **Trinidad Municipal College** and build practical web and mobile applications—from campus attendance and OJT tools to e-commerce, transport safety, and small language-model experiments.
+I study at **Trinidad Municipal College** and build practical web app and mobile applications—from campus attendance and OJT tools to e-commerce, transport safety, and small language-model experiments.
 
 [![GitHub](https://img.shields.io/badge/GitHub-CajesJM-181717?style=for-the-badge&logo=github)](https://github.com/CajesJM)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arissuuu1)
